@@ -1,0 +1,14 @@
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\mygamemode.xml
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\mygamemode.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\mygamemode.dll
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\mygamemode.pdb
+C:\Program Files (x86)\Steam\steamapps\common\sbox\addons\mygamemode\code\obj\Debug\mygamemode.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\sbox\addons\mygamemode\code\obj\Debug\mygamemode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\sbox\addons\mygamemode\code\obj\Debug\mygamemode.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\sbox\addons\mygamemode\code\obj\Debug\mygamemode.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\sbox\addons\mygamemode\code\obj\Debug\mygamemode.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\sbox\addons\mygamemode\code\obj\Debug\mygamemode.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\sbox\addons\mygamemode\code\obj\Debug\mygamemode.dll
+C:\Program Files (x86)\Steam\steamapps\common\sbox\addons\mygamemode\code\obj\Debug\refint\mygamemode.dll
+C:\Program Files (x86)\Steam\steamapps\common\sbox\addons\mygamemode\code\obj\Debug\mygamemode.pdb
+C:\Program Files (x86)\Steam\steamapps\common\sbox\addons\mygamemode\code\obj\Debug\ref\mygamemode.dll
