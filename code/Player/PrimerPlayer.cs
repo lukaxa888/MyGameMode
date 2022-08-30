@@ -28,4 +28,12 @@ public partial class PrimerPlayer : Player
 		base.Respawn();
 		Health = 100f;
 	}
+
+	public override void Simulate( Client cl )
+	{
+		base.Simulate( cl );
+
+		TickPlayerUse();
+
+	}
 }

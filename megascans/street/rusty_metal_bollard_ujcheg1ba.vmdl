@@ -1,0 +1,104 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc28:version{fb63b6ca-f435-4aa0-a2c7-c66ddc651dca} -->
+{
+	rootNode =
+	{
+		_class = "RootNode"
+		children =
+		[
+			{
+				_class = "LODGroupList"
+				children =
+				[
+					{
+	_class = "LODGroup"
+	switch_threshold = 0
+	meshes =
+	[
+		"unnamed_1",
+	]
+},{
+	_class = "LODGroup"
+	switch_threshold = 25
+	meshes =
+	[
+		"unnamed_2",
+	]
+},{
+	_class = "LODGroup"
+	switch_threshold = 50
+	meshes =
+	[
+		"unnamed_3",
+	]
+},
+				]
+			},
+			{
+				_class = "MaterialGroupList"
+				children =
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = [  ]
+						use_global_default = true
+						global_default_material = "megascans/street/materials/rusty_metal_bollard_ujcheg1ba.vmat"
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children =
+				[
+					{
+    _class = "RenderMeshFile"
+    filename = "/megascans/street/assets/meshes/ujcheg1ba_lod0.fbx"
+    import_scale = 0.393701
+    import_filter =
+    {
+        exclude_by_default = false
+        exception_list = [  ]
+    }
+},{
+    _class = "RenderMeshFile"
+    filename = "/megascans/street/assets/meshes/ujcheg1ba_lod2.fbx"
+    import_scale = 0.393701
+    import_filter =
+    {
+        exclude_by_default = false
+        exception_list = [  ]
+    }
+},{
+    _class = "RenderMeshFile"
+    filename = "/megascans/street/assets/meshes/ujcheg1ba_lod4.fbx"
+    import_scale = 0.393701
+    import_filter =
+    {
+        exclude_by_default = false
+        exception_list = [  ]
+    }
+},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children =
+				[
+					{
+						_class = "PhysicsHullFromRender"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						faceMergeAngle = 20.0
+						maxHullVertices = 32
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = "prop_static"
+		anim_graph_name = ""
+	}
+}

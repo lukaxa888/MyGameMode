@@ -91,4 +91,22 @@ public partial class MyGame : Sandbox.Game
 
 
 	}
+
+
+
+
+	[ConCmd.Server]
+	public static void CreateTestEnt()
+	{
+		
+		var caller = ConsoleSystem.Caller.Pawn;
+		if ( caller == null ) return;
+
+		new HealthUsable()
+		{
+			Position = caller.Position + caller.Rotation.Forward * 100
+		};
+
+
+	}
 }
